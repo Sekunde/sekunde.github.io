@@ -1,0 +1,265 @@
+Deep hough voting for 3d object detection in point clouds*Research Scientist, Waymo*37.409713620804965*-122.10511650137619
+Deep learning for 3d point clouds: A survey*the University of Western Australia*-31.9789061*115.8180721
+From points to parts: 3d object detection from point cloud with part-aware and part-aggregation network*the Chinese University of Hong Kong*22.419625*114.2067606
+Learning object bounding boxes for 3d instance segmentation on point clouds*Heriot-Watt University*55.9111604*-3.3216711
+3d instance segmentation via multi-task metric learning*King Abdullah University of Science and Technology*22.309465*39.104697
+Panopticfusion: Online volumetric semantic mapping at the level of stuff and things*Sony Corporation*40.7418571*-73.9870218
+Imvotenet: Boosting 3d object detection in point clouds with image votes*Research Scientist, Waymo*37.409713620804965*-122.10511650137619
+Pointgroup: Dual-set point grouping for 3d instance segmentation*SmartMore*39.598291*-104.891481
+3d-mpa: Multi-proposal aggregation for 3d semantic instance segmentation*ETH Zürich AI Center*47.3780574*8.548528899999999
+Pointcontrast: Unsupervised pre-training for 3d point cloud understanding*Facebook AI Research (FAIR)*37.48525176223925*-122.14828240137487
+Occuseg: Occupancy-aware 3d instance segmentation*Hong Kong University of Science and Technology*22.3363998*114.2654655
+Deep learning on 3D point clouds*Xiamen University*24.4373484*118.097855
+Multi-view pointnet for 3d scene understanding*UCSD*32.8800604*-117.2340135
+Cascaded refinement network for point cloud completion*National University of Singapore*1.2966426*103.7763939
+Masc: Multi-scale affinity with sparse convolution for 3d instance segmentation*Washington University in St. Louis*38.6487895*-90.31079620000001
+End-to-end cad model retrieval and 9dof alignment in 3d scans*TUM*48.14966*11.5678602
+3dregnet: A deep neural network for 3d point registration*Instituto Superior Técnico*38.7368192*-9.138705
+3D Bird's-Eye-View Instance Segmentation*ETH Zürich*47.37638889999999*8.547628
+Dualconvmesh-net: Joint geodesic and euclidean convolutions on 3d meshes*RWTH Aachen University*50.7800778*6.065686899999999
+Mlcvnet: Multi-level context votenet for 3d object detection*University of Oxford*51.7597496*-1.2582609
+A Benchmark for LiDAR-based Panoptic Segmentation based on KITTI*University of Bonn*50.7267806*7.0864528
+Automated digital modeling of existing buildings: A review of visual object recognition methods*Arizona State University*33.4532165*-112.0719833
+A hierarchical graph network for 3D object detection on point clouds*CS, Zhejiang University*30.258632*120.12265
+RIO: 3D object instance re-localization in changing indoor environments*Technical University of Munich*48.14966*11.5678602
+Vision-based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review*HKBU*22.3408088*114.1798757
+Deep fusionnet for point cloud semantic segmentation*University of Oxford*51.7602176*-1.2597146
+State‐of‐the‐art in Automatic 3D Reconstruction of Structured Indoor Environments*CNR*35.782366*-78.67778899999999
+Instance segmentation of lidar point clouds*University of Kentucky*38.0306511*-84.5039697
+3d instance embedding learning with a structure-aware loss function for point cloud segmentation*Shanghai Jiao Tong University*31.0252201*121.4337784
+Fusion-aware point convolution for online semantic 3d scene segmentation*National University of Defense Technology*27.9341148*107.7140695
+Multi-path region mining for weakly supervised 3d semantic segmentation on point clouds*Nanyang Technological University*1.3483099*103.6831347
+A survey of simultaneous localization and mapping*Finnish Geospatial Research Institute*60.161001*24.5457767
+Scanrefer: 3d object localization in rgb-d scans using natural language*Technical University of Munich*48.149573*11.569103
+Atlas: End-to-end 3d scene reconstruction from posed images*InsideIQ Inc.*40.137378*-75.2027791
+Sess: Self-ensembling semi-supervised 3d object detection*National University of Singapore*1.2966426*103.7763939
+H3dnet: 3d object detection using hybrid geometric primitives*UT Austin*30.2849185*-97.7340567
+Deep learning for image and point cloud fusion in autonomous driving: A review*University of Waterloo*43.4722854*-80.5448576
+Frodo: From detections to 3d objects*Carnegie Mellon University*40.4432027*-79.9428499
+A survey of simultaneous localization and mapping with an envision in 6g wireless networks*Finnish Geospatial Research Institute*60.161001*24.5457767
+CF-SIS: Semantic-instance segmentation of 3D point clouds by context fusion with self-attention*Department of Software, Tsinghua University*39.9996674*116.3264439
+Point2SpatialCapsule: Aggregating features and spatial relationships of local regions on point clouds using spatial-aware capsules*Department of Software, Tsinghua University*39.9996674*116.3264439
+Revealnet: Seeing behind objects in rgb-d scans*Visual Computing & AI, Technical University of Munich*39.9068127*-86.09450079999999
+Learning 3d semantic scene graphs from 3d indoor reconstructions*Technical University of Munich*48.14966*11.5678602
+Active scene understanding via online semantic reconstruction*Nanjing University*32.0568391*118.7789602
+Dops: Learning to detect 3d objects and predict their 3d shapes*University of Maryland*38.9869183*-76.9425543
+End-to-end 3d point cloud instance segmentation without detection*Nanyang Technological University*1.3483099*103.6831347
+Relation graph network for 3D object detection in point clouds*Xidian University, Hunan University*28.178915*112.94395
+Generative sparse detection networks for 3d single-shot object detection*Stanford University*37.4274745*-122.169719
+A convolutional neural network for point cloud instance segmentation in cluttered scene trained by synthetic data without color*Information Science and Technology, Hokkaido University*43.076286*141.339004
+Scenecad: Predicting object alignments and layouts in rgb-d scans*TUM*48.14966*11.5678602
+Mask-MCNet: Instance segmentation in 3D point cloud of intra-oral scans*Qualcomm AI Research*52.3563947*4.9557194
+Lidar panoptic segmentation for autonomous driving*University of Bonn*50.7267806*7.0864528
+Unseen object instance segmentation for robotic environments*University of Washington*47.6569628*-122.3052978
+DTMMN: Deep transfer multi-metric network for RGB-D action recognition*Chongqing University*29.56488*106.468097
+Learning and memorizing representative prototypes for 3d point cloud semantic and instance segmentation*The University of Adelaide*-34.920603*138.6062277
+Self-prediction for joint instance and semantic segmentation of point clouds*Shanghai Jiao Tong University*31.0252201*121.4337784
+Density-based clustering for 3d object detection in point clouds*Clearpath Robotics*43.4034671*-80.4708158
+3dcfs: Fast and robust joint 3d semantic-instance segmentation via coupled feature selection*University of Warwick*52.3792525*-1.5614704
+3d object detection with pointformer*AWS AI Amazon*47.6062*-122.3321
+Deep Learning for 3D Point Cloud Understanding: A Survey*University of Illinois at Urbana-Champaign*40.1019523*-88.2271615
+GRNet: Geometric relation network for 3D object detection from point clouds*University of Waterloo*43.4722854*-80.5448576
+Exploring data-efficient 3d scene understanding with contrastive scene contexts*Visual Computing & AI, Technical University of Munich*39.9068127*-86.09450079999999
+Instance segmentation of industrial point cloud data*University of Florida*29.6436325*-82.3549302
+CNN-Based RGB-D Salient Object Detection: Learn, Select, and Fuse*Southeast University*29.3812973*-98.4570658
+RfD-Net: Point Scene Understanding by Semantic Instance Reconstruction*Bournemouth University*50.74363238374495*-1.898359659518089
+Finding Your (3D) Center: 3D Object Detection Using a Learned Loss*University College London*51.52455920000001*-0.1340401
+Instance-aware embedding for point cloud instance segmentation*The University of Adelaide*-34.920603*138.6062277
+SPOT: Selective Point Cloud Voting for Better Proposal in Point Cloud Object Detection*University of California San Diego*32.8800604*-117.2340135
+Supervoxel convolution for online 3d semantic segmentation*Beijing Normal University*39.9619537*116.3662615
+Automatic 3D reconstruction of structured indoor environments*Visual Computing Group, CRS4*38.9900665*8.936055099999999
+Panoster: End-to-end panoptic segmentation of lidar point clouds*Google Zurich*47.3653139*8.524474699999999
+Real-time 3D reconstruction of thin surface based on laser line scanner*Wuhan University*30.5360485*114.3643219
+Point cloud segmentation using RGB drone imagery*UC Berkeley*37.8718992*-122.2585399
+Learning gaussian instance segmentation in point clouds*Academia Sinica*25.0423834*121.6160711
+Scan2Cap: Context-aware Dense Captioning in RGB-D Scans*Simon Fraser University*49.278170672298096*-122.91985111539417
+A real-time online learning framework for joint 3d reconstruction and semantic segmentation of indoor scenes*KU Leuven*50.87795449999999*4.7002953
+Spatial semantic embedding network: Fast 3d instance segmentation with deep metric learning*Seoul National University*37.4565095*126.9500385
+Multi-agent Embodied Question Answering in Interactive Environments*Tsinghua University*39.9996674*116.3264439
+HIDA: Towards Holistic Indoor Understanding for the Visually Impaired via Semantic Instance Segmentation with a Wearable Solid-State LiDAR Sensor*Karlsruhe Institute of Technology*49.0119199*8.4170303
+Snap2cad: 3D indoor environment reconstruction for AR/VR applications using a smartphone device*Polytechnic University of Turin*45.0632841*7.660124700000001
+Cascaded Refinement Network for Point Cloud Completion with Self-supervision*National University of Singapore*1.2966426*103.7763939
+A survey of LiDAR and camera fusion enhancement*Wuhan Dynspai Technology Company Limited*40.8947334*-73.9425538
+Deep 6-dof tracking of unknown objects for reactive grasping*TU Berlin*52.5125322*13.3269446
+Bi-Directional Attention for Joint Instance and Semantic Segmentation in Point Clouds*Shandong University*36.64893*117.029014
+Semi-Supervised Learning of Multi-Object 3D Scene Representations*ETH Zürich*47.37638889999999*8.547628
+RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss*,ShanghaiTech University*31.1763741*121.5924518
+Learning from 2D: Pixel-to-Point Knowledge Transfer for 3D Pretraining*National Taiwan University*25.0173405*121.5397518
+SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation*Department of Automation, Tsinghua University*39.9996674*116.3264439
+Pri3D: Can 3D Priors Help 2D Representation Learning?*Visual Computing & AI, Technical University of Munich*39.9068127*-86.09450079999999
+Segmentation of Depth Images into Objects Based on Polyhedral Shape Class Model*Faculty of Electrical Engineering, Computer Science and Information Technology Osijek*45.5568216*18.6952649
+Deep Learning based 3D Segmentation: A Survey*University of Western Australia*-31.9789061*115.8180721
+A Panoramic Segmentation Network for Point Cloud*Shanghai University*31.31480359999999*121.382746
+P4Contrast: Contrastive Learning with Pairs of Point-Pixel Pairs for RGB-D Scene Understanding*Princeton University*40.3430942*-74.65507389999999
+Hierarchical aggregation for 3d instance segmentation*Huazhong Uni. of Sci. and Tec.*30.5130043*114.4202756
+Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation*Academia Sinica*25.0423834*121.6160711
+A Self-supervised Cascaded Refinement Network for Point Cloud Completion*National University of Singapore*1.2966426*103.7763939
+SASO: Joint 3D semantic-instance segmentation via multi-scale semantic association and salient point clustering optimization*ShanghaiTech University*31.1763741*121.5924518
+PGCNet: patch graph convolutional network for point cloud segmentation of indoor scenes*University of Zürich*47.3743221*8.550981199999999
+Group Contextual Encoding for 3D Point Clouds.*JD Technology*26.3803991*-80.07582289999999
+Monte Carlo Scene Search for 3D Scene Understanding*TU Graz*47.0582945*15.4581132
+Semantic Consistency Networks for 3D Object Detection*Xi'an Jiaotong University*34.250803*108.983693
+Denoise and Contrast for Category Agnostic Shape Completion*Politecnico di Torino*45.0632841*7.660124700000001
+TSegNet: An efficient and accurate tooth segmentation network on 3D dental model*The University of Taxes at Austin*30.2849185*-97.7340567
+ODAM: Object Detection, Association, and Mapping using Posed RGB Video*Meta Reality Labs Research*47.68747339999999*-122.1491549
+A Comprehensive Study of 3-D Vision-Based Robot Manipulation*State Key Laboratory of Robotics, SIA, Chinese Academy of Sciences (CAS)*39.9106327*116.3356321
+Instance Segmentation of Low-texture Industrial Parts Based on Deep Learning*Shanghai Jiaotong University*31.0252201*121.4337784
+ICM-3D: Instantiated Category Modeling for 3D Instance Segmentation*University of Western Ontario*43.0095971*-81.2737336
+PrimitiveNet: Primitive Instance Segmentation with Local Primitive Embedding under Adversarial Metric*Stanford University*37.4274745*-122.169719
+ELF-Net: Enriching local features network for 3D point cloud classification and semantic segmentation*Jiang Nan University*31.482675*120.277464
+Multi-user, Scalable 3D Object Detection in AR Cloud*Magic Leap*30.37737589999999*-97.71624489999999
+SIMstack: A Generative Shape and Instance Model for Unordered Object Stacks*C Berkeley*37.8718992*-122.2585399
+Visual grounding: building cross-modal visual-text alignment*Researcher, Microsoft*40.7248575*-73.9958352
+Image guidance based 3D vehicle detection in traffic scene*University of Science and Technology of China*31.821994*117.28059
+Metric Learning on Joint Embedding of 3D Scan and CAD Objects*Technical University of Munich*48.14966*11.5678602
+Deep Learning for 3D Information Extraction from Indoor and Outdoor Point Clouds*University of Waterloo*43.4722854*-80.5448576
+Efficient spatio-temporal point convolution*Technical University of Cluj-Napoca*46.769299*23.585613
+Efficient and accurate object detection for 3D point clouds in intelligent visual internet of things*Qingdao University of Science and Technology*36.119951*120.482157
+Automatic object annotation in streamed and remotely explored large 3D reconstructions*TU Wien*48.1986546*16.3684626
+SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences*Technical University of Munich*48.14966*11.5678602
+High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion*Tsinghua University*39.9996674*116.3264439
+Dynamic Convolution for 3D Point Cloud Instance Segmentation*The University of Adelaide*-34.920603*138.6062277
+BEACon: a boundary embedded attentional convolution network for point cloud instance segmentation*Nanyang Technological University*1.3483099*103.6831347
+Learning to reconstruct and segment 3D objects*University of Oxford*22.3042407*114.1798118
+You Don't Only Look Once: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking*SenseTime*1.2786632*103.8474008
+Neural vision-based semantic 3D world modeling*Aristotle University of Thessaloniki*40.6308283*22.9592224
+The Fusion Strategy of 2D and 3D Information Based on Deep Learning: A Review*Beijing University of Civil Engineering and Architecture*39.93532099999999*116.342721
+Mutual Use of Semantics and Geometry for CNN-Based Object Localization in ToF Images.*University College London*51.52455920000001*-0.1340401
+Unsupervised 3D Shape Completion through GAN Inversion*Nanyang Technological University*1.3483099*103.6831347
+SpineDepth: A Multi-Modal Data Collection Approach for Automatic Labelling and Intraoperative Spinal Shape Reconstruction Based on RGB-D Data*Balgrist University Hospital, ETH Zurich*47.35326000000001*8.5750437
+Discovering and Segmenting Unseen Objects for Robot Perception*University of Washington*47.6569628*-122.3052978
+Vote-Based 3D Object Detection with Context Modeling and SOB-3DNMS*University of Oxford*51.7597496*-1.2582609
+Three-Dimensional Object Detection with Deep Neural Networks for Automatic As-Built Reconstruction*University of New South Wales*-33.917347*151.2312675
+SPSN: Seed Point Selection Network in Point Cloud Instance Segmentation*National University of Defense Technolog*27.9341148*107.7140695
+VENet: Voting Enhancement Network for 3D Object Detection*University of Oxford*51.7597496*-1.2582609
+Densely connected graph convolutional network for joint semantic and instance segmentation of indoor point clouds*Tianjin Normal University*39.0607286*117.1256421
+DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution*The University of Adelaide*-34.920603*138.6062277
+3D Spatial Recognition without Spatially Labeled 3D*UIUC*40.1019523*-88.2271615
+Semantic Scene Completion via Integrating Instances and Scene in-the-Loop*The Chinese University of Hong Kong*22.419625*114.2067606
+Deep Hough Voting for 3D Object Detection in Point Clouds Supplementary Material*Stanford University*37.4274745*-122.169719
+ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection*Samsung AI Center Moscow*55.7777426*37.5870193
+Point Cloud Instance Segmentation of Indoor Scenes Using Learned Pairwise Patch Relations*,Zhejiang Wanli University*29.819014*121.567337
+Capture to Rendering Pipeline for Generating Dynamically Relightable Virtual Objects with Handheld RGB-D Cameras*University of Minnesota*44.97399*-93.2277285
+Fusing RGBD Tracking and Segmentation Tree Sampling for Multi-Hypothesis Volumetric Segmentation*Georgia Institute of Technology*33.7756178*-84.39628499999999
+How semantic and geometric information mutually reinforce each other in ToF object localization*UCLouvain*50.6696767*4.615875
+InstanceFusion: Real‐time Instance‐level 3D Reconstruction Using a Single RGBD Camera*Baidu Research*37.4093304*-122.0238449
+Panoptic 3D Scene Reconstruction From a Single RGB Image*Technische Universität München*48.14966*11.5678602
+Dense Point Diffusion for 3D Object Detection*Peking University*39.986913*116.3058739
+Evaluating the Impact of Semantic Segmentation and Pose Estimation on Dense Semantic SLAM*Australian Centre for Robotic Vision at QUT (Queensland University of Technology)*-27.4773299*153.0270123
+RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection*Tsinghua University*39.9996674*116.3264439
+SAT: 2D Semantics Assisted Training for 3D Visual Grounding*Microsoft*40.7248575*-73.9958352
+Descriptor-Free Multi-View Region Matching for Instance-Wise 3D Reconstruction*Osaka University*34.8220139*135.5244676
+CASNet: Common Attribute Support Network for image instance and panoptic segmentation*Tsinghua University and Intel Labs China*39.9996674*116.3264439
+PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds*Tsinghua University*39.9996674*116.3264439
+A Progressive Conditional Generative Adversarial Network for Generating Dense and Colored 3D Point Clouds*Phd Candidate, University of Texas at Arlington*32.7292117*-97.11519709999999
+Relationship-based Point Cloud Completion*Shenzhen University*22.53306*113.932813
+CorDet: Corner-Aware 3D Object Detection Networks for Automated Scan-to-BIM*University of New South Wales*-33.917347*151.2312675
+Towards Part-Based Understanding of RGB-D Scans*Skoltech*55.6977407*37.3595732
+Visual Odometry Based 3D-Reconstruction*Intelligent Robotic Research Center Zhejiang Lab Hangzhou 311121 China*30.2719243*119.9430973
+Graph-Guided Deformation for Point Cloud Completion*Hong Kong University of Science and Technology*22.3363998*114.2654655
+Indoor 3D Scene Understanding Using Depth Sensors*King Abdullah University of Science and Technology*22.309465*39.104697
+Enhancing 3D Point Cloud Semantic Segmentation Using Multi-Modal Fusion With 2D Images*Technical University of Munich*48.14966*11.5678602
+Enhanced Vote Network for 3D Object Detection in Point Clouds*Peking University*39.986913*116.3058739
+Local Grid Rendering Networks for 3D Object Detection in Point Clouds*National University of Singapore*1.2966426*103.7763939
+RfD-Net: Point Scene Understanding by Semantic Instance Reconstruction Supplementary Material*Bournemouth University*50.74363238374495*-1.898359659518089
+Semantics and Architecture: Reflections and Method Proposal for the Recognition of Semantically-Defined Architectural Forms*University of Naples*40.84663030000001*14.2568226
+Convertible Sparse Convolution for Point Cloud Instace Segmentation*Jimei University*24.576921*118.092327
+Descriptor-Free Multi-view Region Matching for Instance-Wise 3D Reconstruction*Osaka University*34.8220139*135.5244676
+3D Guided Weakly Supervised Semantic Segmentation*Australian National University*-35.2776999*149.118527
+Spcr: semi-supervised point cloud instance segmentation with perturbation consistency regularization*Fudan University*31.297639703576035*121.50367144270727
+TransformerFusion: Monocular RGB Scene Reconstruction using Transformers*Technical University of Munich*48.14966*11.5678602
+The Robotic Vision Scene Understanding Challenge*Research Fellow, Queensland University of Technology*-27.477617*153.0302635
+A Graph-Based Method for Joint Instance Segmentation of Point Clouds and Image Sequences*Fudan University*31.2974197*121.5036178
+HCFS3D: Hierarchical coupled feature selection network for 3D semantic and instance segmentation*Birmingham City University*52.4831505*-1.882798
+Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds*The University of Sydney*-33.8885748*151.1873494
+Hierarchical, Dense and Dynamic 3D Reconstruction Based on VDB Data Structure for Robotic Manipulation Tasks*ERL Vibot, IUT Le Creusot, Université Bourgogne*46.8069152*4.4134645
+3DRM: Pair-wise relation module for 3D object detection*National University of Defense Technology*27.9341148*107.7140695
+ARKitScenes-A Diverse Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data*Apple*37.33190086631162*-122.01087185892413
+NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo*Tsinghua University*39.9996674*116.3264439
+Measuring and understanding light in real life scenarios*Istituto Italiano di Tecnologia (IIT)*44.4749312*8.9064299
+In-Time 3D Reconstruction and Instance Segmentation from Monocular Sensor Data*TU Wien*48.1986546*16.3684626
+高速点群セグメンテーションと受信者のオブジェクト操作を可能とする 3 次元実物体の複合現実による遠隔共有手法*Osaka University*34.8220139*135.5244676
+平行点云: 虚实互动的点云生成与三维模型进化方法*Qingdao*36.067108*120.382609
+Utilisation conjointe d'information sémantique et géométrique pour la localisation d'objets par caméra temps-de-vol*Université catholique de Louvain*50.6696767*4.615875
+采用 3D 几何特征的草莓叶片含水率监测与试验验证.*Gansu Agricultural University*36.090703*103.700763
+Pre-training by completing point clouds*University of Cambridge*52.2042666*0.1149085
+Automated building change detection with amodal completion of point clouds*Arizona State University*33.4532165*-112.0719833
+Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences*Visual Computing and Artificial Intelligence Group, Technical University of Munich*48.26296199999999*11.667705
+Unsupervised Point Cloud Pre-Training via Occlusion Completion*University of Cambridge*52.2042666*0.1149085
+FLYBO: A Unified Benchmark Environment for Autonomous Flying Robots*Imagerie et Vision Artificielle*47.31401959999999*5.0775925
+Efficient Depth Completion Network Based on Dynamic Gated Fusion*University of Posts and Telecommunications*39.962796*116.358103
+DA-Net: Density-Adaptive Downsampling Network for Point Cloud Classification via End-to-End Learning*Xiamen University*24.4373484*118.097855
+Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation*The Chinese University of Hong Kong*22.419625*114.2067606
+Multimodal Semi-Supervised Learning for 3D Objects*Clemson University*34.673407*-82.8367119
+Image2Point: 3D Point-Cloud Understanding with Pretrained 2D ConvNets*UC Berkeley*37.8718992*-122.2585399
+Pri3D: Can 3D Priors Help 2D Representation Learning? Supplementary Material*Technical University of Munich*48.14966*11.5678602
+Pointly-supervised 3D Scene Parsing with Viewpoint Bottleneck*Tsinghua University*39.9996674*116.3264439
+SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000x Fewer Labels*Computer Science, University of Oxford*51.7599793*-1.2579917
+Indoor Semantic Scene Understanding using Multi-modality Fusion*Edith Cowan University*-31.7524902*115.7727799
+ROSEFusion: Random Optimization for Online Dense Reconstruction under Fast Camera Motion*National University of Defense Technology*27.9341148*107.7140695
+Boundary-Aware graph Markov neural network for semiautomated object segmentation from point clouds*University of Waterloo*43.4722854*-80.5448576
+Transformer And Node-Compressed Dnn Based Dual-Path System For Manipulated Face Detection*Waseda University*35.7087334*139.7196485
+Countering Spoof: Towards Detecting Deepfake with Multidimensional Biological Signals*Wuhan University*30.5360485*114.3643219
+Deepfake videos: synthesis and detection techniques–a survey*Bahria University Islamabad*33.7155821*73.0288113
+Estudo, desenvolvimento e comparação de técnicas de detecção de Deepfake*Master's Student in Mobile Robotics, University of São Paulo*-23.5613991*-46.7307891
+Continual Learning of Semantic Segmentation using Complementary 2D-3D Data Representations*Carnegie Mellon University*40.4432027*-79.9428499
+HyperDet3D: Learning a Scene-conditioned 3D Object Detector*Tsinghua Univeristy*40.00016052652643*116.32618640794128
+FPCC: Fast Point Cloud Clustering-based Instance Segmentation for Industrial Bin-picking*Hokubu Shokudo*43.078529549068115*141.34004518517568
+Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement*Tsinghua Univeristy*40.00016052652643*116.32618640794128
+MaskGroup: Hierarchical Point Grouping and Masking for 3D Instance Segmentation*Peking University*39.98712213591357*116.3058308081278
+LiDAR-Based Real-Time Panoptic Segmentation via Spatiotemporal Sequential Data Fusion*Information Engineering University*34.814657998213896*113.56875422729176
+Human-Aware Object Placement for Visual Environment Reconstruction*Max Planck Insititute for Intelligence Systems*48.75358989866638*9.076961615137698
+AutoRF: Learning 3D Object Radiance Fields from Single View Observations*Technical University of Munich*48.14983893245798*11.567935300573861
+Joint stereo 3D object detection and implicit surface reconstruction*Hong Kong University of Science and Technology*22.33240042252461*114.26649546648439
+MonoScene: Monocular 3D Semantic Scene Completion*Inria*48.85895389832683*2.3948393813687
+Pose2Room: Understanding 3D Scenes from Human Activities*Technical University of Munich*48.14983893245798*11.567935300573861
+ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images*Sungkyunkwan University*37.58843102008463*126.99356308316425
+FST-Net: Exploiting Frequency Spatial Temporal Information for Low-Quality Fake Video Detection*University of Science and Technology of China*31.822221885696578*117.28063291374815
+Image2point: 3d point-cloud understanding with pretrained 2d convnets*UC Berkeley*37.87206856324636*-122.25853990148836
+Unsupervised Representation Learning for Point Clouds: A Survey*Nanyang Technological University*1.3482562696895284*103.68317761348604
+Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data*Valeo*1.299363577071237*103.85195562697946
+Self-Supervised Image Representation Learning with Geometric Set Consistency*University of Hong Kong*22.29406650584826*114.16410019538219
+SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations*Harbin Institute of Technology*45.83681537882686*126.6408882260371
+Weakly-Supervised End-to-End CAD Retrieval to Scan Objects*Technical University of Munich*48.14983893245798*11.567935300573861
+Point Scene Understanding via Disentangled Instance Mesh Reconstruction*Peking University*39.987069165700404*116.30601337341388
+Neural Part Priors: Learning to Optimize Part-Based Object Completion in RGB-D Scans*Technical University of Munich*48.14983893245798*11.567935300573861
+GeoRec: Geometry-enhanced semantic 3D reconstruction of RGB-D indoor scenes*Wuhan University*30.538515248091475*114.36375799240994
+4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding*Technical University of Munich*48.14983893245798*11.567935300573861
+Semi-supervised Implicit Scene Completion from Sparse LiDAR*Intel Labs China*37.401293009016584*-121.9354838149906
+High-quality indoor scene 3D reconstruction with RGB-D cameras: A brief review*Institute of Automation, Chinese Academy of Sciences*42.89397614824944*116.07400203146304
+Multi-modal feature fusion for 3D object detection in the production workshop*Chengdu University of Technology*30.665891094318855*104.13690118489447
+D3Net: A Speaker-Listener Architecture for Semi-supervised Dense Captioning and Visual Grounding in RGB-D Scans*Technical University of Munich*48.14983893245798*11.567935300573861
+An MIL-Derived Transformer for Weakly Supervised Point Cloud Segmentation*National Taiwan University*25.017564095636033*121.53979471364954
+Towards 3D Scene Understanding by Referring Synthetic Models*University of Hong Kong*22.29406650584826*114.16410019538219
+Weakly supervised semantic segmentation of airborne laser scanning point clouds*University of Twente*52.23982459710507*6.849875829505187
+Contrastive Boundary Learning for Point Cloud Segmentation*University of Sydney*-33.88845009293876*151.18748887330221
+PointMatch: A Consistency Training Framework for Weakly SupervisedSemantic Segmentation of 4D Point Clouds*CUHKSZ*22.687924174203545*114.21017776149557
+SegContrast: 3D Point Cloud Feature Representation Learning through Self-supervised Segment Discrimination*University of Bonn*50.72720900878366*7.086505753382858
+Box2Seg: Learning Semantics of 3D Point Clouds with Box-Level Supervision*Sun Yat-Sen University*23.096725555282013*113.29881847444075
+SensatUrban: Learning Semantics from Urban-Scale Photogrammetric Point Clouds*University of Oxford*51.75496249131989*-1.2543238858485488
+Unsupervised Pre-training Improves Tooth Segmentation in 3-Dimensional Intraoral Mesh Scans*Zhejiang-UIUC Institute*30.308841842606252*120.08657460023105
+Point Cloud Instance Segmentation with Semi-supervised Bounding-Box Mining*Fudan University*31.297603033256337*121.50360706956224
+Referring Self-supervised Learning on 3D Point Cloud*University of Hong Kong*22.29406650584826*114.16410019538219
+LiDAR-Based Real-Time Panoptic Segmentation via Spatiotemporal Sequential Data Fusion*PLA Strategic Support Force Information Engineering University*34.814332086461725*113.57015970474454
+How deep learning is empowering semantic segmentation*Shenzhen Institute of Advanced Technology*35.793185468337505*116.85486316965073
+RBGNet: Ray-based Grouping for 3D Object Detection*PKU*39.98703628440735*116.30575588136145
+Segmentation of Plant Point Cloud based on Deep Learning Method*Guangxi Normal University*25.264901563191934*110.32774746046131
+Learning a Structured Latent Space for Unsupervised Point Cloud Completion*Chinese University of Hong Kong*22.421471429727497*114.20476353450566
+3D Tooth Instance Segmentation Learning Objectness and Affinity in Point Cloud*Zhejiang Gongshang University*30.309159526635995*120.38855045605347
+SoftGroup for 3D Instance Segmentation on Point Clouds*KAIST*36.372192871340864*127.36242999757806
+DisARM: Displacement Aware Relation Module for 3D Detection*National University of Defense Technology*28.812967796207836*112.96247655363761
+Joint Feature Euclidean Distance Sampling for Semi-Supervised 3d Object Detection*Hebei University of Technology*39.179751412698046*117.16572106600375
+Distribution Aware VoteNet for 3D Object Detection*Huazhong university of science and technology*30.5132630865369*114.4203936155762
+Multi-feature Fusion VoteNet for 3D Object Detection*Nanjing University of Aeronautics and Astronautic*32.03532109387841*118.82965053318321
+Learning 3D Semantic Scene Graphs with Instance Embeddings*Technical University of Munich*48.14983893245798*11.567935300573861
+点云目标检测残差投票网络*广东工业大学*23.033709683596225*113.39734437129589
+iSeg3D: An Interactive 3D Shape Segmentation Tool*Shanghai Jiao Tong University*23.100303305762143*113.28863516944818
+FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection*Samsung AI Center Moscow*55.77794773421572*37.58698711240172
+Real-Time Globally Consistent 3D Reconstruction with Semantic Priors*Beijing Normal University*39.96217570931261*116.36632587156484
+Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding*KAUST*22.314906904480715*39.105443581834
+2.5 D-VoteNet: Depth Map based 3D Object Detection for Real-Time Applications*Karlsruhe Institute of Technology*49.013073267485716*8.411491048448797
+Learning Scene Dynamics from Point Cloud Sequences*University of Florida*29.643828299069447*-82.35493020162777
+Robust 3D Scene Segmentation through Hierarchical and Learnable Part-Fusion*Intel Labs*16.303179837370983*80.43926361355582
+UltraDepth: Exposing High-Resolution Texture from Depth Cameras*Chinese University of Hong Kong*22.421411923095935*114.20454895779531
+Deep Learning Methods Applied to 3D Point Clouds Based Instance Segmentation: A Review*Shandong Jianzhu University*36.67928704663147*117.17932835431209
+Feature Fusion based Re-voting for 3D Object Detection*Jimei University*24.5772332027811*118.09231626946608

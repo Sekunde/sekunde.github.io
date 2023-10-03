@@ -1,0 +1,4 @@
+@article{zhangpcr,
+  title={PCR-CG: Point Cloud Registration via Deep Explicit Color and Geometry},
+  author={Zhang, Yu and Yu, Junle and Huang, Xiaolin and Zhou, Wenhui and Hou, Ji}
+}

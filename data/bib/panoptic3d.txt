@@ -1,0 +1,6 @@
+@article{dahnert2021panoptic,
+    title={Panoptic 3D Scene Reconstruction From a Single RGB Image},
+    author={Dahnert, Manuel and Hou, Ji and  and Nie{\ss}ner, Matthias and Dai, Angela},
+    journal={Proc. Neural Information Processing Systems (NeurIPS)},
+    year={2021}
+}  

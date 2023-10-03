@@ -1,0 +1,6 @@
+@article{yu2023rotation,
+  title={Rotation-Invariant Transformer for Point Cloud Matching},
+  author={Yu, Hao and Qin, Zheng and Hou, Ji and Saleh, Mahdi and Li, Dongsheng and Busam, Benjamin and Ilic, Slobodan},
+  journal={arXiv preprint arXiv:2303.08231},
+  year={2023}
+}

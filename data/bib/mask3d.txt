@@ -1,0 +1,6 @@
+@article{hou2023mask3d,
+  title={Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors},
+  author={Hou, Ji and Dai, Xiaoliang and He, Zijian and Dai, Angela and Nie{\ss}ner, Matthias},
+  journal={arXiv preprint arXiv:2302.14746},
+  year={2023}
+}

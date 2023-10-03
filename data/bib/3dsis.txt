@@ -1,0 +1,7 @@
+@inproceedings{hou20193d,
+  title={3d-sis: 3d semantic instance segmentation of rgb-d scans},
+  author={Hou, Ji and Dai, Angela and Nie{\ss}ner, Matthias},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4421--4430},
+  year={2019}
+}

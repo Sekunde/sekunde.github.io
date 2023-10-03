@@ -1,0 +1,6 @@
+@article{hou2021pri3d,
+  title={Pri3D: Can 3D Priors Help 2D Representation Learning?},
+  author={Hou, Ji and Xie, Saining and Graham, Benjamin and Dai, Angela and Nie{\ss}ner, Matthias},
+  journal={arXiv preprint arXiv:2104.11225},
+  year={2021}
+}

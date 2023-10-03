@@ -1,0 +1,7 @@
+@inproceedings{hou2020revealnet,
+  title={RevealNet: Seeing Behind Objects in RGB-D Scans},
+  author={Hou, Ji and Dai, Angela and Nie{\ss}ner, Matthias},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2098--2107},
+  year={2020}
+}

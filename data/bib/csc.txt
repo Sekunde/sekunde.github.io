@@ -1,0 +1,6 @@
+@article{hou2020exploring,
+  title={Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts},
+  author={Hou, Ji and Graham, Benjamin and Nie{\ss}ner, Matthias and Xie, Saining},
+  journal={arXiv preprint arXiv:2012.09165},
+  year={2020}
+}
