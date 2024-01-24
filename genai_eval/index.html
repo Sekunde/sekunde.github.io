@@ -41,8 +41,17 @@
   <style>
 
     .people-pic {
-      max-width: 125px;
-      max-height: 125px;
+      max-width: 139px;
+      max-height: 139px;
+      /*width:300px;*/
+      /*height:300px;*/
+      object-fit: cover;
+      border-radius: 50%;
+  }
+
+    .speaker-pic {
+      max-width: 150px;
+      max-height: 150px;
       /*width:300px;*/
       /*height:300px;*/
       object-fit: cover;
@@ -70,6 +79,8 @@
       <ul class="nav navbar-nav">
         <li><a href="#intro">Introduction</a></li>
         <li><a href="#challenges">Challenges</a></li>
+        <li><a href="#submission">Submission</a></li>
+        <li><a href="#leaderborad">Leaderboard</a></li>
         <li><a href="#winners">Winners</a></li>
         <li><a href="#dates">Schedule</a></li>
         <li><a href="#speakers">Invited Speakers</a></li>
@@ -126,7 +137,12 @@
 <div class="row">
   <div class="col-xs-12">
     <p>
-      This is the first workshop on GenAI Media Generation Challenge. Our primary goal is to ..... Tapping on the recently introduced text-to-image model <b>Emu</b>, we host the benchmark challenge on <i>Image Generation task</i>. The workshop consists of presentations by experts in the field and short talks regarding methods addressing the benchmark challenges designed to highlight the emerging open problems in this area.
+      We are hosting the first GenAI <b>M</b>edi<b>a</b> <b>G</b>enerat<b>i</b>on <b>C</b>hallenge (MAGIC). With the meteoric rise in generative model capabilities,
+      text-guided image generation and editing are witnessing groundbreaking advancements, yielding images of impeccable quality and aesthetics.
+      However, a conspicuous challenge persists in the domain: the lack of an easily accessible, universally-accepted benchmark for evaluation.
+      This deficiency arises from the absence of a large-scale, comprehensive evaluation dataset, standardized evaluation protocols, and the inadequacy of current automatic metrics compound the issue.
+      Our challenge bridges these gaps and we offer the community a standardized, easily accessible evaluation platform for researchers to fairly compare their work,
+      consolidate the field's progress, streamline its future trajectory, and promote meaningful, measurable advancements.
     </p>
   </div>
 </div>
@@ -140,64 +156,60 @@
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We establish xxx challenges:
+      There are two main tracks for the media generation challenge: (1) text-to-image generation, and (2) text-guided image editing. We describe the two tracks in the following sections:
     </p>
+        <strong>Track A - Text-to-image Generation</strong>: In the text to image generation track, we test the capabilities of a model's text to image generation capability through evaluating the output images of benchmark prompts.
+        The benchmark prompts are constructed for various scenarios such as the following:
     <ul>
 
       <li>
-        <strong>Text-to-image Generation</strong>: to generate an image described in natural language
+        Single object generation, focusing on generation accuracy and correctness of the object
       </li>
-
       <li>
-        <strong>Placeholder</strong>: placeholder
+        Object composition, focusing on generation along with relationship and activity
       </li>
-
       <li>
-        <strong>Placeholder</strong>: placeholder
+        Reasoning, focusing on concepts such as counting or logic
       </li>
-
       <li>
-        <strong>Placeholder</strong>: placeholder
+        Stylization, focusing on correctness of global style
+      </li>
+      <li>
+        Rendered text, focusing on quality and correctness of the generated text in image.
+      </li>
       </li>
     </ul>
+    Within these scenarios, the benchmark prompts would contain knowledge of various domains, such as people, animals, food, locations.
 
-    <div class="row" id="tasks">
-      <div class="col-md-6">
-        <img src="static/img/site/chA.jpeg" height="180px" />
-        <p style="text-align: center;">challenge A</p>
-      </div>
-      <div class="col-md-6">
-        <img src="static/img/site/chB.jpeg" height="180px"/>
-        <p style="text-align: center;">challenge B</p>
-      </div>
-    </div>
+    <p></p>
+
+    <strong>Track B - Text-guided Image Editing</strong>: blablabla....
 
 
+    <p></p>
 
-    <p>
-      For each task the challenge participants are provided with generated results. The winner of each task will give a short talk describing their method during this workshop.
-      <!-- In addition to the public train-val-test split, benchmarking is done on a hidden test set whose raw data can be downloaded without annotations;
-      in order to participate in the benchmark, the predictions on the hidden test set are uploaded to the evaluation server, where they are evaluated.        -->
-    </p>
 
-    <p>
-      The challenge leaderboard is online. If you want to join the challenge, see more details here:
-    </p>
-    <ul>
-      <li>
-        <strong><b><a href="https://kaldir.vc.in.tum.de/scanrefer_benchmark/benchmark_localization">placeholder</a></b></strong>
-      </li>
-    </ul>
+    <strong>Evaluation</strong>: Evaluations will be based on both human and automated evaluations. Leveraging the latest work on automated evaluation,
+    we aim to provide a comprehensive evaluation that captures various aspects of model performance. While we are still in the process of finalizing the exact automatic metrics to be used,
+     we are considering a range of methods included in benchmarks like  T2I-CompBench [ref] and HEIM [ref]. On human evaluations, we would
+
+    <p></p>
+
+    <strong>Winner Prize</strong>: of-course $$$$
+
+  <p><br /></p>
+<div class="row" id="submission">
+  <div class="col-xs-12">
+    <h2>Submission</h2>
   </div>
 </div>
+You need to first register at [kunkun]
+
 
 <p><br /></p>
-
-
-<p><br /></p>
-<div class="row" id="winners">
+<div class="row" id="leaderboard">
   <div class="col-xs-12">
-    <h2>Winners</h2>
+    <h2>Leaderboard</h2>
   </div>
 </div>
 <div class="row">
@@ -214,11 +226,20 @@
 
 </div>
 
+
+<p><br /></p>
+<div class="row" id="winners">
+  <div class="col-xs-12">
+    <h2>Winners</h2>
+  </div>
+</div>
+TBD
+
 <p><br /></p>
 
 <div class="row" id="dates">
   <div class="col-xs-12">
-    <h2>Important Dates (Paris / Pacific Time Zone)</h2>
+    <h2>Important Dates (Seattle / Pacific Time Zone)</h2>
   </div>
 </div>
 <div class="row">
@@ -254,7 +275,7 @@
 <p><br /></p>
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule (Paris / Pacific Time Zone)</h2>
+    <h2>Schedule (Seattle / Pacific Time Zone)</h2>
   </div>
 </div>
 <div class="row">
@@ -299,11 +320,11 @@
 
 <div class="row">
   <div class="col-md-2">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="static/img/people/profA.jpeg" /></a>
+    <a href=""><img class="speaker-pic" style="float:left;margin-right:50px" src="static/img/people/yuanzhen_li.jpg" /></a>
   </div>
   <div class="col-md-10">
     <p>
-      <b><a href="">placeholder</a></b> He is an Assistant Professor of Computer Science.
+      <b><a href="https://people.csail.mit.edu/yzli/">Yuanzhen Li</a></b> At Google Research, Yuanzhen supports a talented team and a few cross-team Computer Vision and Generative AI efforts. Recent work includes: Generative Product Imagery, "Imagen" in Google Cloud Vertex AI, Muse, DreamBooth, DreamBooth3D, Generative Uncrop, etc. Prior to Google, she spent 10 years in the startup world. She made iPhone computational-photography apps, and one of them (TrueHDR) was quite popular in the 2009-2012 era. She also founded a startup leveraging deep learning for image search; it was acquired by VSCO in 2015 and I then worked at VSCO as a Director of Engineering. Prior to that, she completed my PhD in 2009 at MIT with Prof. Edward H. Adelson. At MIT, she was a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Perceptual Science Laboratory.
     </p>
   </div>
 </div>
@@ -312,17 +333,77 @@
 
 <div class="row">
   <div class="col-md-2">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="static/img/people/profB.jpeg" /></a>
+    <a href=""><img class="speaker-pic" style="float:left;margin-right:50px;" src="static/img/people/junyan_zhu.jpg" /></a>
   </div>
   <div class="col-md-10">
     <p>
-      <b><a href="">placeholder</a></b> He is an Assistant Professor of Computer Science.
+      <b><a href="https://www.cs.cmu.edu/~junyanz/">Jun-Yan Zhu</a></b> Dr. Jun-Yan Zhu is an Assistant Professor with The Robotics Institute in the School of
+      Computer Science of Carnegie Mellon University. He also holds affiliated faculty
+      appointments in the Computer Science Department and Machine Learning Department.
+      He studies computer graphics, computer vision, and computational photography. Prior to
+      joining CMU, he was a Research Scientist at Adobe Research. He did a postdoc at MIT
+      CSAIL, working with William T. Freeman, Josh Tenenbaum, and Antonio Torralba. He
+      obtained my Ph.D. from UC Berkeley, under the supervision of Alexei A. Efros. He
+      received his B.E. from Tsinghua University, working with Zhuowen Tu, Shi-Min Hu, and
+      Eric Chang.
     </p>
   </div>
 </div>
 
+<p><br /></p>
+
+<div class="row">
+  <div class="col-md-2">
+    <a href=""><img class="speaker-pic" style="float:left;margin-right:50px;" src="static/img/people/richard_zhang.jpg" /></a>
+  </div>
+  <div class="col-md-10">
+    <p>
+      <b><a href="https://richzhang.github.io/">Richard Zhang</a></b> Dr. Richard Zhang’s research interests are in computer vision, machine learning, deep
+      learning, graphics, and image processing. He obtained a PhD at UC Berkeley, advised by
+      Prof. Alexei (Alyosha) Efros. He obtained BS and MEng degrees from Cornell University
+      in ECE. He often collaborates with academic researchers, either through internships or
+      university collaboration. Recently, he was included on MIT Technology Review's list of 35
+      Innovators Under 35.
+  </div>
+</div>
 
 <p><br /></p>
+
+<div class="row">
+  <div class="col-md-2">
+    <a href=""><img class="speaker-pic" style="float:left;margin-right:50px;" src="static/img/people/sergey_tulyakov.jpg" /></a>
+  </div>
+  <div class="col-md-10">
+    <p>
+      <b><a href="http://www.stulyakov.com/">Sergey Tulyakov</a></b> Dr. Sergey Tulyakov is a Principal Research Scientist heading the Creative Vision team at
+      Snap Research. His work focuses on creating methods for manipulating the world via
+      computer vision and machine learning. This includes 2D and 3D methods for
+      photorealistic object manipulation and animation, video synthesis, prediction and
+      retargeting. His work has been published as 30+ top conference papers, journals and
+      patents resulting in multiple tech transfers, including Snapchat Pet Tracking and
+      Real-time Neural Lenses (gender swap, baby face, real-time try-on and many others).
+  </div>
+</div>
+
+<p><br /></p>
+
+<div class="row">
+  <div class="col-md-2">
+    <a href=""><img class="speaker-pic" style="float:left;margin-right:50px;" src="static/img/people/tim_salimans.jpg" /></a>
+  </div>
+  <div class="col-md-10">
+    <p>
+      <b><a href="https://research.google/people/tim-salimans/">Tim Salimans</a></b> Dr. Tim Salimans is a Machine Learning research scientist working on generative
+      modeling. He is well known for his work on GANs and VAEs, and their evaluation using
+      the Inception score, as well as his work on autoregressive generative models like GPT-1
+      and PixelCNN++. More recently, he has been focusing on diffusion models for generating
+      images (Imagen) and video (Imagen Video), and on making these models fast to sample
+      using distillation.
+  </div>
+</div>
+
+<p><br /></p>
+
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
