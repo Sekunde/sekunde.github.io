@@ -1,0 +1,6 @@
+@article{wimbauer2023cache,
+  title={Cache Me if You Can: Accelerating Diffusion Models through Block Caching},
+  author={Wimbauer, Felix and Wu, Bichen and Schoenfeld, Edgar and Dai, Xiaoliang and Hou, Ji and He, Zijian and Sanakoyeu, Artsiom and Zhang, Peizhao and Tsai, Sam and Kohler, Jonas and others},
+  journal={arXiv preprint arXiv:2312.03209},
+  year={2023}
+}

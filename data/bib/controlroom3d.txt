@@ -1,0 +1,6 @@
+@article{schult2023controlroom3d,
+  title={Controlroom3d: Room generation using semantic proxy rooms},
+  author={Schult, Jonas and Tsai, Sam and H{\"o}llein, Lukas and Wu, Bichen and Wang, Jialiang and Ma, Chih-Yao and Li, Kunpeng and Wang, Xiaofang and Wimbauer, Felix and He, Zijian and others},
+  journal={arXiv preprint arXiv:2312.05208},
+  year={2023}
+}
