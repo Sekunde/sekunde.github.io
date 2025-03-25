@@ -1,0 +1,6 @@
+@article{dai2023emu,
+  title={Emu: Enhancing image generation models using photogenic needles in a haystack},
+  author={Dai, Xiaoliang and Hou, Ji and Ma, Chih-Yao and Tsai, Sam and Wang, Jialiang and Wang, Rui and Zhang, Peizhao and Vandenhende, Simon and Wang, Xiaofang and Dubey, Abhimanyu and others},
+  journal={arXiv preprint arXiv:2309.15807},
+  year={2023}
+}

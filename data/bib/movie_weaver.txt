@@ -1,0 +1,6 @@
+@article{liang2025movie,
+  title={Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts},
+  author={Liang, Feng and Ma, Haoyu and He, Zecheng and Hou, Tingbo and Hou, Ji and Li, Kunpeng and Dai, Xiaoliang and Juefei-Xu, Felix and Azadi, Samaneh and Sinha, Animesh and others},
+  journal={arXiv preprint arXiv:2502.07802},
+  year={2025}
+}

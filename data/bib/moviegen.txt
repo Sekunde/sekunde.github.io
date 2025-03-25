@@ -1,0 +1,7 @@
+@article{polyak2024movie,
+  title={Movie Gen: A Cast of Media Foundation Models},
+  author={Polyak, Adam and Zohar, Amit and Brown, Andrew and Tjandra, Andros and Sinha, Animesh and Lee, Ann and Vyas, Apoorv and Shi, Bowen and Ma, Chih-Yao and Chuang, Ching-Yao and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2410},
+  year={2024}
+}
