@@ -1,0 +1,6 @@
+@article{pan2025transfer,
+  title={Transfer between modalities with metaqueries},
+  author={Pan, Xichen and Shukla, Satya Narayan and Singh, Aashu and Zhao, Zhuokai and Mishra, Shlok Kumar and Wang, Jialiang and Xu, Zhiyang and Chen, Jiuhai and Li, Kunpeng and Juefei-Xu, Felix and others},
+  journal={arXiv preprint arXiv:2504.06256},
+  year={2025}
+}
