@@ -1,0 +1,6 @@
+@article{ma2025token,
+  title={Token-shuffle: Towards high-resolution image generation with autoregressive models},
+  author={Ma, Xu and Sun, Peize and Ma, Haoyu and Tang, Hao and Ma, Chih-Yao and Wang, Jialiang and Li, Kunpeng and Dai, Xiaoliang and Shi, Yujun and Ju, Xuan and others},
+  journal={arXiv preprint arXiv:2504.17789},
+  year={2025}
+}
