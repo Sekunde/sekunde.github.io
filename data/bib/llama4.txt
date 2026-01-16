@@ -1,0 +1,9 @@
+@article{meta2025llama,
+  title={The llama 4 herd: The beginning of a new era of natively multimodal ai innovation},
+  author={Meta, AI},
+  journal={https://ai. meta. com/blog/llama-4-multimodal-intelligence/, checked on},
+  volume={4},
+  number={7},
+  pages={2025},
+  year={2025}
+}
