@@ -1,0 +1,7 @@
+@techreport{tencent2026hynomas,
+  title = {Hy-Nomas: Towards Free-form Interactive World Generation},
+  author = {{Tencent Hy Visual Generation Team}},
+  institution = {Tencent},
+  year = {2026},
+  url = {https://github.com/Tencent-Hunyuan/Hy-Nomas/blob/main/Hy_Nomas_Tech_Report.pdf}
+}

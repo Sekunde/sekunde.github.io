@@ -1,0 +1,7 @@
+@article{vitok_v22026,
+  title = {ViTok-v2: Scaling Native Resolution Auto-Encoders to 5 Billion Parameters},
+  author = {Philippe Hansen-Estruch and Jiahui Chen and Vivek Ramanujan and Orr Zohar and Yan Ping and Animesh Sinha and Markos Georgopoulos and Edgar Schoenfeld and Ji Hou and Felix Juefei-Xu and Sriram Vishwanath and Ali Thabet},
+  journal = {arXiv preprint arXiv:2605.05331},
+  year = {2026},
+  url = {https://arxiv.org/abs/2605.05331}
+}

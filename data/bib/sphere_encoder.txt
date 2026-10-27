@@ -1,0 +1,7 @@
+@article{sphere_encoder2026,
+  title = {Image Generation with a Sphere Encoder},
+  author = {Kaiyu Yue and Menglin Jia and Ji Hou and Tom Goldstein},
+  journal = {arXiv preprint arXiv:2602.15030},
+  year = {2026},
+  url = {https://arxiv.org/abs/2602.15030}
+}

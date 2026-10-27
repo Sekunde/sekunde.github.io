@@ -1,0 +1,7 @@
+@inproceedings{hairweaver2026,
+  title = {HairWeaver: Photorealistic Hair Motion Synthesis with Sim-to-Real Physics Transfer Guided Video Diffusion},
+  author = {Di Chang and Ji Hou and Aljaz Bozic and Assaf Neuberger and Felix Juefei-Xu and Olivier Maury and Gene Wei-Chin Lin and Tuur Stuyck and Doug Roble and Mohammad Soleymani and Stephane Grabli},
+  booktitle = {ECCV},
+  year = {2026},
+  url = {https://arxiv.org/abs/2602.11117}
+}

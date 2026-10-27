@@ -1,0 +1,7 @@
+@inproceedings{streamdit2026,
+  title = {StreamDiT: Real-Time Streaming Text-to-Video Generation},
+  author = {Akio Kodaira and Tingbo Hou and Ji Hou and Markos Georgopoulos and Felix Juefei-Xu and Masayoshi Tomizuka and Yue Zhao},
+  booktitle = {CVPR},
+  year = {2026},
+  url = {https://arxiv.org/abs/2507.03745}
+}

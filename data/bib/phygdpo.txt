@@ -1,0 +1,7 @@
+@inproceedings{phygdpo2026,
+  title = {PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation},
+  author = {Yuanhao Cai and Kunpeng Li and Menglin Jia and Jialiang Wang and Junzhe Sun and Feng Liang and Weifeng Chen and Felix Juefei-Xu and Chu Wang and Ali Thabet and Xiaoliang Dai and Xuan Ju and Alan Yuille and Ji Hou},
+  booktitle = {ECCV},
+  year = {2026},
+  url = {https://arxiv.org/abs/2512.24551}
+}
